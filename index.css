@@ -1,0 +1,20 @@
+h3{
+    text-align: center;
+    text-decoration: overline;
+}
+
+
+legend {
+    text-align: center;
+    padding: 10px;
+}
+button{
+    background: rgb(219, 97, 10);
+    border-radius: 5px;
+    margin-left: 50%;
+}
+.details{
+    text-align: center;
+    display: inline-flex;
+    flex: wrap;
+}
